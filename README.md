@@ -23,8 +23,6 @@ I'am <strong>SAIFUL</strong> ,  <code>Web Front-End Developer</code> ,  I Can an
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sai4ul&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/sai4ul)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)  
