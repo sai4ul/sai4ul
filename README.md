@@ -13,7 +13,7 @@ I'am <strong>SAIFUL</strong> ,  <code>Web Front-End Developer</code> ,  I Can an
 - 🔭 I’m currently working on Xgenious 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: bubt.saiful@gmail.com 
+- 📫 How to reach me: info.sai4ul@gmail.com 
 - ⚡ Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
 
 
