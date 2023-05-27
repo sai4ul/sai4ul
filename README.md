@@ -8,16 +8,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="sai4ul" style="width:29%"/>
 </div>.
 
-
-<div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&&theme=darcula&hide_border=true" alt="sai4ul" style="width:100%; />
-</div>.
-
-
-![saiful](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=solarized_dark)
-
-
-
 👷 ideas to knowing me:
 - I’m currently working at [Onetst Tech](https://onesttech.com/)
 - I’m currently learning React 
@@ -60,3 +50,11 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 [![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sai4ul)
 [![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/sai4ul)
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
+
+##
+
+<div>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&&theme=darcula&hide_border=true" alt="sai4ul" style="widths:100%; />
+</div>
+
+
