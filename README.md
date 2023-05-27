@@ -32,7 +32,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 
 
-<div style="margin:5px">
+<div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="jmrashed"  style="width:25%; padding:3px"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="jmrashed" style="width:29%; padding:3px" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="jmrashed"  style="width:29%; padding:3px"/>
