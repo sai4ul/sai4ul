@@ -41,8 +41,8 @@ I'am <strong>SAIFUL</strong> ,  <code>Web Front-End Developer</code> ,  I Can an
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/sai4ul)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/sai4ul)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)   -->
 
 ![Profile views](https://gpvc.arturio.dev/sai4ul)  
