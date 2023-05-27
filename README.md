@@ -33,11 +33,10 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="sai4ul" style="width:33%; padding:4px"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:33%; padding:4px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="sai4ul" style="width:31%;padding-right:0; padding:4px"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%; padding:4px" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="sai4ul" style="width:31%"/>
 </div>
-
 
 
 
