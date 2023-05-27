@@ -4,11 +4,11 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 ---
 
-- 🔭 I’m currently working on Xgenious 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: info.sai4ul@gmail.com 
-- ⚡ Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
+- I’m currently working on Xgenious 
+- I’m currently learning React 
+- I’m looking to collaborate on GitHub 
+- How to reach me: info.sai4ul@gmail.com 
+- Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
 
 ---
 
