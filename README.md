@@ -19,7 +19,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 👀 Check out what I'm currently working on
 - [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end desing start
 - ![Profile views](https://gpvc.arturio.dev/sai4ul)  
-- ![Profile views](https://gpvc.arturio.dev/sai4ul)  
 
 ##
 
@@ -39,15 +38,13 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 📫 Currently Tech Stack
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0081CB?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
 ![Slack](https://img.shields.io/badge/slack-2EB67D?style=flat-square&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
