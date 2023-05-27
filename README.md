@@ -13,7 +13,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 ---
 
-âš ï¸ Recruiters: Don't contact me, I will ignore you âš ï¸
+⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
 
 ---
 
