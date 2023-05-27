@@ -1,7 +1,3 @@
-![Front-End | React Developer | Web Trainer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/87438667_2735789126658907_4373177121451802624_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=nE7Lb1lmsGUAX8qrpdH&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-KuuX2gtq7w1GfPP7CtJ3txSZKJuRWiTEDaKbKSv8pIw&oe=62993D3B)
-
-## Hi there..😘
-
 I'am <strong>SAIFUL</strong> ,  <code>Web Front-End Developer</code> ,  I Can any kind of website including outstanding <code>Front-end design</code> , with Over 4 years of experience. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you!
 
 
