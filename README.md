@@ -14,11 +14,12 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 - I’m currently learning React 
 - I’m looking to collaborate on anything Front-end Related
 - Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
-
+- 
 ---
 
 👀 Check out what I'm currently working on
 - [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end desing start
+![Profile views](https://gpvc.arturio.dev/sai4ul)  
 
 ---
 
@@ -36,8 +37,8 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
 
 ---
-📫 Currently Tech Stack
 
+📫 Currently Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-C51A38?style=flat-square&logo=apache&logoColor=white)
@@ -64,17 +65,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ![Ionic](https://img.shields.io/badge/ionic-563D7C?style=flat-square&logo=ionic&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-
-
-
-
-
-
-
-
-
 <!-- ![GitHub metrics](https://metrics.lecoq.io/sai4ul)   -->
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)   -->
-
-![Profile views](https://gpvc.arturio.dev/sai4ul)  
