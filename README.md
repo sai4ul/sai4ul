@@ -38,6 +38,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 📫 Currently Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0081CB?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -48,7 +49,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ![Slack](https://img.shields.io/badge/slack-2EB67D?style=flat-square&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-171515?style=flat-square&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/sai4ul)   -->
