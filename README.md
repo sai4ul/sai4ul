@@ -8,18 +8,17 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="sai4ul" style="width:29%"/>
 </div>.
 
-
 👷 ideas to knowing me:
 - I’m currently working at [Onetst Tech](https://onesttech.com/)
 - I’m currently learning React 
 - I’m looking to collaborate on anything Front-end Related
 - Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
-- 
+
 ---
 
 👀 Check out what I'm currently working on
 - [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end desing start
-![Profile views](https://gpvc.arturio.dev/sai4ul)  
+- ![Profile views](https://gpvc.arturio.dev/sai4ul)  
 
 ---
 
