@@ -19,7 +19,20 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 - How to reach me : info.sai4ul@gmail.com
 - How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
 
----
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai4ul)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sai4ul)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sai4ull)
+[![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sai4ul)
+[![Reddit](https://img.shields.io/badge/reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/sai4ul)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14821701/sai4ul)
+[![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
+[![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=flat-square&logo=dribbble&logoColor=white)](https://codesandbox.com/sai4ul)
+[![behance](https://img.shields.io/badge/behance-053eff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sai4ul)
+[![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sai4ul)
+[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/sai4ul)
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
