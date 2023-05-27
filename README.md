@@ -9,7 +9,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 </div>-
 
 
-👷 Check out what I'm currently working on
+👷 ideas to knowing me:
 - I’m currently working at [Onetst Tech](https://onesttech.com/)
 - I’m currently learning React 
 - I’m looking to collaborate on anything Front-end Related
