@@ -54,6 +54,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 <div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&&theme=darcula&hide_border=true" alt="sai4ul" style="widths:100%; />
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&&theme=darcula&hide_border=true" alt="sai4ul" style="width:100%; />
 </div>
 ![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
