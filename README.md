@@ -53,13 +53,16 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 ##
 
-![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true)
+
 
 <div>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:100%; />
-    ![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark)
 </div>
 
+![Kakise github stats](https://github-readme-stats.vercel.app/api?username=Kakise&theme=radical&show_icons=true&count_private=true)
 
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakise&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakise&theme=solarized_dark)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakise&theme=solarized_dark)
 
 
