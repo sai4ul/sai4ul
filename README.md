@@ -36,6 +36,34 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
 
 
+![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-C51A38?style=flat-square&logo=apache&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-005C84?style=flat-square&logo=mariadb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-005C84?style=flat-square&logo=Nginx&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-2EB67D?style=flat-square&logo=slack&logoColor=white)
+![Git](https://img.shields.io/badge/git-F1502F?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-171515?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-F79400?style=flat-square&logo=aws&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-007ACC?style=flat-square&logo=graphql&logoColor=red)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0081CB?style=flat-square&logo=tailwindcss&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-563D7C?style=flat-square&logo=ionic&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
