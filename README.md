@@ -10,7 +10,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 
 <div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=solarized_dark" alt="sai4ul" style="width:100%; />
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&&theme=darcula&hide_border=true" alt="sai4ul" style="width:100%; />
 </div>.
 
 
