@@ -19,11 +19,9 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 <div style="margin-bottom:20px; width:100%">
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:63%"/>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%"/>
-</div>
+</div>.
 
 ##
-
-
 
 👀 Check out what I'm currently working on
 - [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end desing start
@@ -59,11 +57,3 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 [![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sai4ul)
 [![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/sai4ul)
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
-
-##
-
-<div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:63%"/>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%"/>
-</div>
- 
