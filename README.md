@@ -8,6 +8,12 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="sai4ul" style="width:29%"/>
 </div>.
 
+<div>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:63%"/>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%"/>
+</div>
+
+
 👷 ideas to knowing me:
 - I’m currently working at [Onetst Tech](https://onesttech.com/)
 - I’m currently learning React 
@@ -54,7 +60,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 <div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:60%"/>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:29%"/>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:63%"/>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%"/>
 </div>
  
