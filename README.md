@@ -22,21 +22,6 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 ##
 
-⚡ How to reach me
-- How to reach me : info.sai4ul@gmail.com
-- How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai4ul)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sai4ul)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sai4ull)
-[![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sai4ul)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14821701/sai4ul)
-[![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sai4ul)
-[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/sai4ul)
-[![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
-
-##
-
 📫 Currently Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,6 +36,22 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/sai4ul)   -->
+##
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)   -->
+⚡ How to reach me
+- How to reach me : info.sai4ul@gmail.com
+- How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai4ul)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sai4ul)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sai4ull)
+[![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sai4ul)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14821701/sai4ul)
+[![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sai4ul)
+[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/sai4ul)
+[![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
+
+
+![GitHub metrics](https://metrics.lecoq.io/sai4ul)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sai4ul)  
