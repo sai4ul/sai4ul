@@ -35,13 +35,12 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 📫 Currently Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0081CB?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-2EB67D?style=flat-square&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
