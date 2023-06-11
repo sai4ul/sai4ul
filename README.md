@@ -41,7 +41,7 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-2EB67D?style=flat-square&logo=slack&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
