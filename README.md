@@ -68,6 +68,5 @@ I'am [saiful islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img  src="https://github-profile-trophy.vercel.app/?username=sai4ul&column=8&theme=radical&no-frame=true&no-bg=true"/>
-  <img  src="https://github-profile-trophy.vercel.app/?username=sai4ul&column=8&theme=darcula&hide_border=true"/> -->
-</a>
+  <img  src="https://github-profile-trophy.vercel.app/?username=sai4ul&column=8&theme=darcula&hide_border=true"/> </a>
  -->
