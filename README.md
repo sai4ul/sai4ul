@@ -7,7 +7,7 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:34%;padding:4px" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&layout=compact&theme=darcula&hide_border=true" alt="sai4ul" style="width:29%; padding-right:5px !important; padding:4px"/>
 </div>
-
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 ##
 
 👷 ideas to know me:
