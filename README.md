@@ -3,9 +3,6 @@ Hi!
 I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</code> ,  I Can any kind of website including outstanding <code>Front-end design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you!
 
 <div>
-    
-   
-    
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="sai4ul" style="width:33%; padding-right:5px !important; padding:4px"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:34%;padding:4px" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="sai4ul" style="width:25%"/>
@@ -27,8 +24,8 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 👀 Check out what I'm currently working on
-- [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end desing start
-- [css-kit](https://marketplace.visualstudio.com) - VS-code extention
+- [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end design start
+- [css-kit](https://marketplace.visualstudio.com) - VS-code extension
 <!-- - ![Profile views](https://gpvc.arturio.dev/sai4ul)   -->
 <!-- ![profile count](https://komarev.com/ghpvc/?username=sai4ul&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/sai4ul?label=follow&style=social)](https://github.com/sai4ul)&nbsp; -->
@@ -53,7 +50,7 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 ##
 
 ⚡ How to reach me
-- How to reach me : info.sai4ul@gmail.com
+- How to reach me: info.sai4ul@gmail.com
 - How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai4ul)
