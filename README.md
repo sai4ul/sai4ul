@@ -4,8 +4,8 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai4ul&&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="sai4ul" style="width:33%; padding-right:5px !important; padding:4px"/>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:34%;padding:4px" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai4ul&layout=compact&theme=darcula&hide_border=true" alt="sai4ul" style="width:29%; padding-right:5px !important; padding:4px"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:34%;padding:4px" />
 </div>
 
 ##
