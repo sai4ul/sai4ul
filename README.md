@@ -1,4 +1,4 @@
-Hi!
+tHi!
 
 I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</code> ,  I Can any kind of website including outstanding <code>Front-end design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you!
 
@@ -90,15 +90,15 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
   </a>
     
   <a href="https://github.com/sai4ul/games-javascript">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=games-javascript&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=games-javascript&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
   <a href="https://github.com/sai4ul/adibaicon">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=adibaicon&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=adibaicon&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
 
   <a href="https://github.com/sai4ul/developer-portfolios">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=developer-portfolios&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=developer-portfolios&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
 </p>
