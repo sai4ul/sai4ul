@@ -102,7 +102,7 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
   </a>
 
   <a href="https://github.com/sai4ul/javascript-Bangla">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=init-javascript-Bangla&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=javascript-Bangla&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
 
    <a href="https://github.com/sai4ul/React-Bangla">
