@@ -78,27 +78,27 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 <p align="center">
   
   <a href="https://github.com/sai4ul/init-html-starter-kit">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=init-html-starter-kit&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=init-html-starter-kit&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
   <a href="https://github.com/sai4ul/portfolio">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=portfolio&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
   <a href="https://github.com/sai4ul/Hostel_Management_System">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=Hostel_Management_System&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=Hostel_Management_System&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
     
   <a href="https://github.com/sai4ul/games-javascript">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=games-javascript&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=games-javascript&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
   <a href="https://github.com/sai4ul/adibaicon">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=adibaicon&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=adibaicon&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
 
   <a href="https://github.com/sai4ul/developer-portfolios">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=developer-portfolios&theme=react&bg_color=0D1117&hide_border=true" alt="html kit">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sai4ul&repo=developer-portfolios&theme=darcula&bg_color=0D1117&hide_border=true" alt="html kit">
   </a>
   
 </p>
