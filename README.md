@@ -1,4 +1,4 @@
-Hi!
+## Hi   <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1fae1.gif" height="20" alt="logo" /> 
 
 I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</code> ,  I Can any kind of website including outstanding <code>Front-end design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you!
 
@@ -10,7 +10,64 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 
 ##
 
-👷 ideas to know me:
+### 📚 Currently Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+    <img width="2" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=less" height="30" alt="less logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="2" />
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="30" alt="storybook logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
+    <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" /> 
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="ps logo" /> 
+</div>
+
+
+
+##
+
+### 🧑 ideas to know me:
 - I’m currently working at [Onetst Tech](https://onesttech.com/)
 - I’m currently learning React 
 - I’m looking to collaborate on anything Front-end Related
@@ -24,34 +81,16 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 </div>.
 
 ##
-
-👀 Check out what I'm currently working on
+### 🏋️ Check out what I'm currently working on
 - [sai4ul/html-starter-kit](https://github.com/sai4ul/html-starter-kit) - contribution Help any front-end design start
 - [css-kit](https://marketplace.visualstudio.com) - VS-code extension
 <!-- - ![Profile views](https://gpvc.arturio.dev/sai4ul)   -->
 <!-- ![profile count](https://komarev.com/ghpvc/?username=sai4ul&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/sai4ul?label=follow&style=social)](https://github.com/sai4ul)&nbsp; -->
 
-
 ##
 
-📫 Currently Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwindcss-0081CB?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
-
-##
-
-⚡ How to reach me
+### ⚡ How to reach me
 - How to reach me: info.sai4ul@gmail.com
 - How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
 
