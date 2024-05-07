@@ -14,6 +14,10 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="2" />
+    <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />+
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -23,20 +27,15 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo" /> 
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=less" height="30" alt="less logo" /> 
+
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="2" />
+    <img src="https://skillicons.dev/icons?i=gulp" height="30" alt="gulp logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="30" alt="storybook logo"  />
   <img width="2" />
@@ -47,6 +46,8 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+    <img width="2" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="30" alt="bitbucket logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo" /> 
   <img width="2" />
@@ -55,7 +56,15 @@ I am [saiful Islam](https://www.sai4ul.com).  <code>Web Front-End Developer</cod
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" /> 
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
-    <img width="2" />
+<img width="2" />
+<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+<img width="2" />
+<img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo" />
+<img width="2" />
+
+<img src="https://skillicons.dev/icons?i=phpstorm" height="30" alt="phpstorm logo" />
+<img width="2" />
+ 
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" /> 
