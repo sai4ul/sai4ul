@@ -4,14 +4,13 @@
 > Love To Travel & Meet New People
 
 
-I'm [saiful Islam](https://www.sai4ul.com). Frontend Developer,  I Can any kind of website including outstanding <code>Frontend design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you.<br />
+I'm [SAIFUL](https://www.sai4ul.com) . Frontend Developer,  I Can any kind of website including outstanding <code>Frontend design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you.<br />
 
 ### Working Area
 
 I have great experience working on popular marketplaces like [Colorlib](https://www.sai4ul.com/colorlib.html) , envato with [Themeforest](https://www.sai4ul.com/themeforest.html) , [Codecanyon](https://www.sai4ul.com/themeforest.html) I have experience working on 20+ categories 200+ themes active on marketplace and downloading them daily. <br />
 
 Besides working on themes I have done frontend work on many large applications. <strong>SAAS - </strong>Multi-Tenancy Multipurpose Website Builder. <strong>HRM -</strong> <i>Human Resource Management</i>. <strong>CRM -</strong> <i>Customer Relationship Management</i>. <strong>LMS - </strong> <i>Learning Management System</i>. <strong>Queue Mangment -</strong> <i>Counter, Display, Kiosk</i>. <strong>News portal </strong>, <strong>Restaurants</strong> etc.
-
 
 
 <div>
@@ -125,13 +124,7 @@ Besides working on themes I have done frontend work on many large applications. 
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/sai4ul)
 
 ##
-<!--  
-🏆 GitHub Profile Trophy
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
- <img  src="https://github-profile-trophy.vercel.app/?username=sai4ul&column=8&theme=radical&no-frame=true&no-bg=true"/>
-  <img  src="https://github-profile-trophy.vercel.app/?username=sai4ul&column=8&theme=darcula&hide_border=true"/> </a>
- -->
 
 ## Projects 🚀
 
