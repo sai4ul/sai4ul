@@ -87,14 +87,6 @@ Besides working on themes I have done frontend work on many large applications. 
 
 ##
 
-### 🧑 ideas to know me:
-- I’m currently working at [Onetst Tech](https://onesttech.com/)
-- I’m currently learning React 
-- I’m looking to collaborate on anything Front-end Related
-- Fun fact:  I co-founded my country's first-ever and largest digital Web Application agency. 
-
-##
-
 <div>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:63%"/>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai4ul&theme=darcula&hide_border=true" alt="sai4ul" style="width:31%"/>
