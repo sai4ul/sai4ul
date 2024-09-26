@@ -4,7 +4,7 @@
 > Love To Travel & Meet New People
 
 
-I'm [SAIFUL](https://www.sai4ul.com) . Frontend Developer,  I Can any kind of website including outstanding <code>Frontend design</code>. Fixed any Kind of Problem with your website. Let's Discuss and Design something awesome for you.<br />
+I'm [SAIFUL](https://www.sai4ul.com) , Frontend Developer,  I can create any kind of website, including outstanding frontend designs. I can fix any kind of problem with your website and improve any application user interface (UI) or user experience (UX). Let's discuss and design something awesome for you.<br />
 
 ### Working Area
 
