@@ -105,7 +105,8 @@ Besides working on themes I have done frontend work on many large applications. 
 ### ⚡ How to reach me
 - How to reach me: info.sai4ul@gmail.com
 - How to reach me : [https://www.sai4ul.com](https://www.sai4ul.com)
-
+- hire a project : [Contact Us](https://tally.so/r/w7JEKP)
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai4ul)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sai4ul)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sai4ull)
